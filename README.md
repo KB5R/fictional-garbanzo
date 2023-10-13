@@ -46,5 +46,5 @@ if __name__ == '__main__':
 ___
 # Conclusion
 
-#### In this article, we have reviewed the basic steps for installing and getting started with Aiogram. I hope this information was useful for you and will help you start creating your first bots using Aiogram. If you have any questions or comments, please do not hesitate to contact us.
+#### In this article, we have reviewed the basic steps for installing and getting started with Aiogram. I hope this information was useful for you and will help you start creating your first bots using Aiogram.
 ___
