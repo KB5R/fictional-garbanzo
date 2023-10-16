@@ -1,6 +1,6 @@
 
 ___
-# Installing aiogram3
+# Installing Aiogram3
 
 #### Before you start using Aiogram, you need to install it. To do this, follow these steps:
 
