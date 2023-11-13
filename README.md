@@ -8,7 +8,7 @@ ___
 #### 2. Install the Aiogram library using pip by running the following command:
 ___
 ```
-pip install aiogram3
+pip install -U aiogram
 ```
 ___
 # Creating a simple bot with Aiogram3
