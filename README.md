@@ -7,7 +7,7 @@ ___
 #### 1. Open a command prompt or terminal.
 #### 2. Install the Aiogram library using pip by running the following command:
 ___
-```
+```python
 pip install -U aiogram
 ```
 ___
